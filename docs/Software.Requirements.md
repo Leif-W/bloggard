@@ -14,7 +14,7 @@ As a <User>, I want <Goal> so that <some reason>
 
 ## User Flow
 
-  ![Bloggard User Flow](./docs/Bloggard-User_Flow.svg)
+  ![Bloggard User Flow](https://raw.github.com/Leif-W/bloggard/master/docs/Bloggard-User_Flow.svg)
 
 ## Business Requirements
 
