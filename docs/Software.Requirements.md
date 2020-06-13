@@ -19,38 +19,38 @@ As a <User>, I want <Goal> so that <some reason>
 ## Business Requirements
 
   * Pages
-    o Home Page
-    o Individual Blog Post page
-    o New Blog Post page
+    * Home Page
+    * Individual Blog Post page
+    * New Blog Post page
 
   * Home Page
-    o Display user profile image
-    o Display list of blogs with Title, Date, Content
-    o Limit the blog text to a certain height
+    * Display user profile image
+    * Display list of blogs with Title, Date, Content
+    * Limit the blog text to a certain height
 
   * Individual Blog Post page
-    o Show the cover image, title, content, post date
-    o Allow the user to go back to the home page
+    * Show the cover image, title, content, post date
+    * Allow the user to go back to the home page
 
   * New Post Page
-    o Allow an admin to fill in a form with title, content, select a cover image
-    o Store the date of the post
-    o Allow the admin to submit a blog post to the REST API
-    o Reditrect to the Home Page
+    * Allow an admin to fill in a form with title, content, select a cover image
+    * Store the date of the post
+    * Allow the admin to submit a blog post to the REST API
+    * Reditrect to the Home Page
 
 
 ## Technical Requirements
 
   * Front End using HTML, CSS, and JavaScript
   * Back End using NodeJS
-    o REST API
+    * REST API
   * Database
-    o JSON
-    o SQLite3 (future)
+    * JSON
+    * SQLite3 (future)
   * REST API Endpoints
-    o Get list of Blog Posts
-      . api/posts
-    o Get individual Blog Post
-      . api/posts/:post_id
-    o Post new Blog Post
-      . api/posts
+    * Get list of Blog Posts
+      * api/posts
+    * Get individual Blog Post
+      * api/posts/:post_id
+    * Post new Blog Post
+      * api/posts
