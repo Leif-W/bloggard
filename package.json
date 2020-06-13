@@ -1,0 +1,23 @@
+{
+  "name": "bloggard",
+  "version": "1.0.0",
+  "description": "My Bloggy Bloggard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Leif-W/bloggard.git"
+  },
+  "keywords": [
+    "blog",
+    "node"
+  ],
+  "author": "Leif-W",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/Leif-W/bloggard/issues"
+  },
+  "homepage": "https://github.com/Leif-W/bloggard#readme"
+}
